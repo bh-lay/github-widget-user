@@ -8,7 +8,7 @@
 ##如何使用
 
 ###1、傻瓜式
-只需要在引入`jquery-github-user-widget.js`文件，在页面中创建一个class为`github-widget-user`的dom，在data属性上增加用户参数即可。
+只需要引入`jquery-github-user-widget.js`文件，在页面中创建一个class为`github-widget-user`的dom，并在data属性上增加用户参数即可，如下面代码所示。
 
 ```html
 <div class="github-widget-user" data-user="bh-lay"></div>
