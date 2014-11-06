@@ -1,6 +1,5 @@
-##这个widget是干什么的
-
-一个可以在你的页面显示你的github个人信息的jquery widget组件。
+##github名片
+一个可以在网站中显示github个人信息的jquery widget组件。
 
 ##这里是[demo](http://htmlpreview.github.io/?https://github.com/bh-lay/github-widget-user/blob/master/demo.html)
 
@@ -21,3 +20,6 @@
 ```javascript
     $('.some_class').github_user_widget('bh-lay');
 ```
+
+
+##提高bigger的又一利器，还不赶紧使用！
