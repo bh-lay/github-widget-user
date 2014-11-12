@@ -3,7 +3,7 @@
 
 ##这里是[demo](http://htmlpreview.github.io/?https://github.com/bh-lay/github-widget-user/blob/master/demo.html)
 
-![demo](resources/demo.jpg)
+![这是纯demo](https://raw.githubusercontent.com/bh-lay/github-widget-user/master/resources/demo.jpg) ，  [这是有逼格的demo](http://bh-lay.com/topic/aboutme/index.html)
 ##如何使用
 
 ###方式一、傻瓜式
